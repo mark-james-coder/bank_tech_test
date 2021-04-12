@@ -1,6 +1,6 @@
 # Bank Tech Test
 
-#### Technologies: 
+#### Technologies: list technolgies used
 
 ## Makers Academy - 
 
