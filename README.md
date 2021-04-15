@@ -1,6 +1,6 @@
 # Bank Tech Test
 
-#### Technologies: list technologies used
+#### Technologies: list technologies used Ruby
 
 ## Makers Academy - 
 
